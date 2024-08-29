@@ -48,5 +48,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PedroGomesjr/PedroGomesjr/output/snake.svg" alt="Snake animation" />
+![snake gif](https://raw.githubusercontent.com/PedroGomesjr/PedroGomesjr/blob/output/github-contribution-grid-snake.svg)
 
 ###
